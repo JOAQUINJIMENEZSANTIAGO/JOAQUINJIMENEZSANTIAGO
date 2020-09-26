@@ -1,5 +1,36 @@
 ### Hi there 👋
 
+## 🔭 I’m currently working on ...
+Since 2000 I have managed Ofitel, which has 3 business lines: 
+* Ofitel - Information Technology.
+* Medicatech: Technology and Hardware Applied to Healthcare
+* Ergotech: Ergonomics applied to Technology
+
+## 🌱 I’m currently learning ...
+* The Bridge : Full stack web Development
+** Frontend :
+    *** HTML, JAVASCRIPT, CSS
+    *** REACT
+    *** APIS
+* Investing: options with futures
+* 
+* Segmentation of anatomical models to obtain a 3D printed biomodel
+
+## 💬 Ask me about ...
+* I love technology.
+* Reading
+* Travel
+* Eat
+* Ride a Mountain Bike and Runnings
+* Meeting of friends
+
+## 📫 How to reach me: ...
+personal e-mail : joaquinjimenezmail@gmail.com
+work e-mail: joaquin@ofitel.info
+linkedin : https://www.linkedin.com/in/joaquin-jimenez-santiago-6135645b/ 
+
+
+
 <!--
 **JOAQUINJIMENEZSANTIAGO/JOAQUINJIMENEZSANTIAGO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
