@@ -3,8 +3,9 @@
 ## 🔭 I’m currently working on ...
 Since 2000 I have managed Ofitel, which has 3 business lines: 
 * Ofitel - Information Technology.
-* Medicatech: Technology and Hardware Applied to Healthcare
-* Ergotech: Ergonomics applied to Technology
+* Medicatech: Technology and Hardware Applied to Healthcare.
+* Ergotech: Ergonomics applied to Technology.
+* Externalize: Outsourcing of IT Services and Processes.
 
 ## 🌱 I’m currently learning ...
 * The Bridge : Full stack web Development
